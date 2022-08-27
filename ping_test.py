@@ -1,4 +1,3 @@
-from glob import glob
 from threading import Thread as thread
 from ping3 import ping
 import pandas as pd
