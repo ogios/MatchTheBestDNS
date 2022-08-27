@@ -23,5 +23,5 @@ And 2 indicators
 |Average time|Statistical Dispersion(std)|
 
 the smaller, the better
-## Preview
+## Example
 ![preview](https://user-images.githubusercontent.com/96933655/187014508-61cd1f3b-aab6-482f-b4d8-bb2696f8651e.png)
