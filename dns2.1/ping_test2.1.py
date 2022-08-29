@@ -30,7 +30,7 @@ def url_get():
     for i in urls:
         if urls[i]:
             for a in urls[i]:
-                url=a[0]
+                url=a
                 del urls[i][0]
                 # print(urls)
                 b=0
